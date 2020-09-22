@@ -58,6 +58,7 @@ def dennis_ritchies_language
     }
     
     temp = programmer_hash[:dennis_ritchie][:languages].
+    p temp
 
 end
 
